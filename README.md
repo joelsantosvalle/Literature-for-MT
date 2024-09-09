@@ -14,3 +14,4 @@
 | Type | Name/Title | Description| Link |
 |----------|-------------|----------------------------|------|
 | **Github Repository** | **Robotic grasping papers** | This repository contains a paper list of Robotic-Grasping and some related tasks such as 6D pose estimation, visual grounding, robotic manipulation, etc. | [Link](https://github.com/rhett-chen/Robotic-grasping-papers) |
+| **Article** | **Handover Control for Human-Robot and Robot-Robot Collaboration** | This article talks about the collaboration between robots and humans | [Link](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2021.672995/full) |
